@@ -27,3 +27,12 @@ PULL_REQUEST_TEMPLATE
 - [ ] Refactor
 - [ ] Performance
 - [ ] Testing
+
+|Hacks   H-6 | 
+|----------------------------------------------------------|
+| Details                                                  |
+|                                                          |
+| Crear el hack con las habilidades vistas en clases |
+|   - diseñar únicamente mediante position / float / flex. |
+|   - tú decides cuales aplicar para lograr el objetivo. |
+
